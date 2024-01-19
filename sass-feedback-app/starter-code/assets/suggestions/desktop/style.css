@@ -1,0 +1,770 @@
+.desktop-suggestions {
+    background-color: #f7f8fd;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop-suggestions .div {
+    background-color: #f7f8fd;
+    width: 1440px;
+    height: 1325px;
+    position: relative;
+}
+
+.desktop-suggestions .group {
+    position: absolute;
+    width: 825px;
+    height: 151px;
+    top: 190px;
+    left: 450px;
+}
+
+.desktop-suggestions .overlap {
+    position: relative;
+    width: 827px;
+    height: 153px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .group-2 {
+    position: relative;
+    width: 761px;
+    height: 95px;
+    top: 29px;
+    left: 33px;
+}
+
+.desktop-suggestions .group-3 {
+    position: absolute;
+    width: 44px;
+    height: 23px;
+    top: 36px;
+    left: 717px;
+}
+
+.desktop-suggestions .path {
+    position: absolute;
+    width: 18px;
+    height: 16px;
+    top: 4px;
+    left: 0;
+}
+
+.desktop-suggestions .text-wrapper {
+    position: absolute;
+    width: 18px;
+    top: -1px;
+    left: 26px;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    color: #3a4374;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: -0.22px;
+    line-height: normal;
+}
+
+.desktop-suggestions .text-wrapper-2 {
+    position: absolute;
+    top: -1px;
+    left: 80px;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    color: #3a4374;
+    font-size: 18px;
+    letter-spacing: -0.25px;
+    line-height: normal;
+}
+
+.desktop-suggestions .p {
+    position: absolute;
+    top: 29px;
+    left: 80px;
+    font-family: "Jost-Regular", Helvetica;
+    font-weight: 400;
+    color: #647196;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop-suggestions .overlap-group-wrapper {
+    position: absolute;
+    width: 40px;
+    height: 53px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.desktop-suggestions .overlap-group {
+    width: 42px;
+    height: 55px;
+    background-color: #f2f4fe;
+    position: relative;
+    top: -1px;
+    left: -1px;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .text-wrapper-3 {
+    top: 26px;
+    left: 10px;
+    color: #3a4374;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: -0.18px;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .img {
+    position: absolute;
+    width: 9px;
+    height: 6px;
+    top: 14px;
+    left: 17px;
+}
+
+.desktop-suggestions .overlap-wrapper {
+    position: absolute;
+    width: 111px;
+    height: 30px;
+    top: 65px;
+    left: 80px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .div-wrapper {
+    width: 113px;
+    height: 32px;
+    background-color: #f2f4ff;
+    position: relative;
+    top: -1px;
+    left: -1px;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .text-wrapper-4 {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    font-family: "Jost-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #4661e6;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop-suggestions .overlap-2 {
+    position: absolute;
+    width: 825px;
+    height: 72px;
+    top: 94px;
+    left: 450px;
+}
+
+.desktop-suggestions .bulb {
+    top: 7px;
+    left: 32px;
+    position: absolute;
+    width: 23px;
+    height: 24px;
+}
+
+.desktop-suggestions .group-4 {
+    position: absolute;
+    width: 825px;
+    height: 72px;
+    top: 0;
+    left: 0;
+}
+
+.desktop-suggestions .overlap-3 {
+    position: relative;
+    width: 827px;
+    height: 74px;
+    top: -1px;
+    left: -1px;
+    background-color: #373f68;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .group-5 {
+    position: absolute;
+    width: 160px;
+    height: 20px;
+    top: 27px;
+    left: 219px;
+}
+
+.desktop-suggestions .sort-by-most-upvot {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Jost-Regular", Helvetica;
+    font-weight: 400;
+    color: #f2f4fe;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop-suggestions .span {
+    font-family: "Jost-Regular", Helvetica;
+    font-weight: 400;
+    color: #f2f4fe;
+    font-size: 14px;
+    letter-spacing: 0;
+}
+
+.desktop-suggestions .text-wrapper-5 {
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+}
+
+.desktop-suggestions .path-2 {
+    position: absolute;
+    width: 9px;
+    height: 6px;
+    top: 9px;
+    left: 151px;
+}
+
+.desktop-suggestions .group-6 {
+    position: absolute;
+    width: 156px;
+    height: 26px;
+    top: 24px;
+    left: 25px;
+}
+
+.desktop-suggestions .text-wrapper-6 {
+    position: absolute;
+    top: -1px;
+    left: 39px;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: -0.25px;
+    line-height: normal;
+}
+
+.desktop-suggestions .bulb-2 {
+    top: 1px;
+    left: 0;
+    position: absolute;
+    width: 23px;
+    height: 24px;
+}
+
+.desktop-suggestions .group-7 {
+    position: absolute;
+    width: 158px;
+    height: 44px;
+    top: 15px;
+    left: 652px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .overlap-group-2 {
+    width: 160px;
+    height: 46px;
+    background-color: #ad1fea;
+    position: relative;
+    top: -1px;
+    left: -1px;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .text-wrapper-7 {
+    position: absolute;
+    top: 12px;
+    left: 25px;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    color: #f2f4fe;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop-suggestions .group-copy {
+    position: absolute;
+    width: 825px;
+    height: 151px;
+    top: 703px;
+    left: 450px;
+}
+
+.desktop-suggestions .text-wrapper-8 {
+    top: 26px;
+    left: 14px;
+    color: #3a4374;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: -0.18px;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .group-8 {
+    position: absolute;
+    width: 825px;
+    height: 151px;
+    top: 361px;
+    left: 450px;
+}
+
+.desktop-suggestions .text-wrapper-9 {
+    top: 26px;
+    left: 12px;
+    color: #3a4374;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: -0.18px;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .group-9 {
+    width: 77px;
+    top: 65px;
+    left: 80px;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .overlap-4 {
+    width: 79px;
+    height: 32px;
+    background-color: #f2f4ff;
+    position: relative;
+    top: -1px;
+    left: -1px;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .group-10 {
+    position: absolute;
+    width: 825px;
+    height: 151px;
+    top: 532px;
+    left: 450px;
+}
+
+.desktop-suggestions .group-11 {
+    position: absolute;
+    width: 761px;
+    height: 59px;
+    top: 29px;
+    left: 33px;
+}
+
+.desktop-suggestions .group-12 {
+    width: 77px;
+    top: 94px;
+    left: 113px;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .group-copy-2 {
+    position: absolute;
+    width: 825px;
+    height: 151px;
+    top: 874px;
+    left: 450px;
+}
+
+.desktop-suggestions .group-copy-3 {
+    position: absolute;
+    width: 825px;
+    height: 151px;
+    top: 1045px;
+    left: 450px;
+}
+
+.desktop-suggestions .text-wrapper-10 {
+    width: 18px;
+    top: -1px;
+    left: 26px;
+    opacity: 0.5;
+    color: #3a4374;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: -0.22px;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .text-wrapper-11 {
+    top: 26px;
+    left: 17px;
+    color: #3a4374;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: -0.18px;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .group-13 {
+    width: 56px;
+    top: 65px;
+    left: 80px;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .overlap-5 {
+    width: 58px;
+    height: 32px;
+    background-color: #f2f4ff;
+    position: relative;
+    top: -1px;
+    left: -1px;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .group-14 {
+    position: absolute;
+    width: 255px;
+    height: 529px;
+    top: 94px;
+    left: 165px;
+}
+
+.desktop-suggestions .group-15 {
+    position: absolute;
+    width: 255px;
+    height: 166px;
+    top: 161px;
+    left: 0;
+}
+
+.desktop-suggestions .group-wrapper {
+    position: relative;
+    width: 257px;
+    height: 168px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .group-16 {
+    position: relative;
+    width: 181px;
+    height: 118px;
+    top: 25px;
+    left: 25px;
+}
+
+.desktop-suggestions .group-17 {
+    width: 111px;
+    top: 44px;
+    left: 0;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .group-copy-4 {
+    width: 48px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .overlap-6 {
+    position: relative;
+    width: 50px;
+    height: 32px;
+    top: -1px;
+    left: -1px;
+    background-color: #4661e6;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .text-wrapper-12 {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    font-family: "Jost-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop-suggestions .group-copy-5 {
+    width: 48px;
+    top: 0;
+    left: 56px;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .overlap-7 {
+    width: 50px;
+    height: 32px;
+    background-color: #f2f4ff;
+    position: relative;
+    top: -1px;
+    left: -1px;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .group-copy-6 {
+    width: 48px;
+    top: 0;
+    left: 112px;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .group-copy-7 {
+    width: 77px;
+    top: 88px;
+    left: 0;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .group-copy-8 {
+    width: 56px;
+    top: 44px;
+    left: 125px;
+    position: absolute;
+    height: 30px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .group-18 {
+    position: absolute;
+    width: 255px;
+    height: 178px;
+    top: 351px;
+    left: 0;
+}
+
+.desktop-suggestions .overlap-8 {
+    position: relative;
+    width: 257px;
+    height: 180px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.desktop-suggestions .group-19 {
+    position: absolute;
+    width: 207px;
+    height: 26px;
+    top: 20px;
+    left: 25px;
+}
+
+.desktop-suggestions .text-wrapper-13 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    color: #3a4374;
+    font-size: 18px;
+    letter-spacing: -0.25px;
+    line-height: normal;
+}
+
+.desktop-suggestions .text-wrapper-14 {
+    position: absolute;
+    top: 3px;
+    left: 177px;
+    font-family: "Jost-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #4661e6;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.desktop-suggestions .group-20 {
+    position: absolute;
+    width: 207px;
+    height: 23px;
+    top: 70px;
+    left: 25px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .text-wrapper-15 {
+    position: absolute;
+    top: -1px;
+    left: 24px;
+    font-family: "Jost-Regular", Helvetica;
+    font-weight: 400;
+    color: #647196;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop-suggestions .text-wrapper-16 {
+    top: -1px;
+    left: 196px;
+    color: #647196;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .oval {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 6px;
+    left: -1px;
+    background-color: #f49f85;
+    border-radius: 5px;
+}
+
+.desktop-suggestions .group-copy-9 {
+    position: absolute;
+    width: 207px;
+    height: 23px;
+    top: 101px;
+    left: 25px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .text-wrapper-17 {
+    top: -1px;
+    left: 197px;
+    color: #647196;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .oval-2 {
+    background-color: #ad1fea;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 6px;
+    left: -1px;
+    border-radius: 5px;
+}
+
+.desktop-suggestions .group-copy-10 {
+    position: absolute;
+    width: 207px;
+    height: 23px;
+    top: 132px;
+    left: 25px;
+    overflow: hidden;
+}
+
+.desktop-suggestions .text-wrapper-18 {
+    top: -1px;
+    left: 198px;
+    color: #647196;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    position: absolute;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desktop-suggestions .oval-3 {
+    background-color: #62bcfa;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 6px;
+    left: -1px;
+    border-radius: 5px;
+}
+
+.desktop-suggestions .group-21 {
+    position: absolute;
+    width: 255px;
+    height: 137px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/oval.png);
+    background-size: 100% 100%;
+}
+
+.desktop-suggestions .group-22 {
+    position: relative;
+    width: 153px;
+    height: 51px;
+    top: 62px;
+    left: 24px;
+}
+
+.desktop-suggestions .text-wrapper-19 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Jost-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: -0.25px;
+    line-height: normal;
+}
+
+.desktop-suggestions .text-wrapper-20 {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    opacity: 0.75;
+    font-family: "Jost-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
